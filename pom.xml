@@ -47,7 +47,7 @@
         <mtf-tools.version>1.0.0</mtf-tools.version>
         <mavenResources.version>3.0.2</mavenResources.version>
 
-        <scriptingModuleVersion>1.1.7</scriptingModuleVersion>
+        <scriptingModuleVersion>2.0.0</scriptingModuleVersion>
     </properties>
 
     <build>
